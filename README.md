@@ -1,6 +1,6 @@
 # Visualizing Intro 501
 
-See the map [here](https://sangheetha.com/Intro502).
+See the map [here](https://sangheetha.com/Intro501).
 
 ## How To Run 
 
